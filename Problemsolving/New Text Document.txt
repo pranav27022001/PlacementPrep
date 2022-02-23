@@ -1,3 +1,5 @@
 this is today's yammer question
 day3.q1.roman to integer question(screenshot no 31)
 q2.common longest prefix(screenshot no 33)
+q3.two sum (screenshot no 34)
+q4.maximum water (sreenshot no 35)
